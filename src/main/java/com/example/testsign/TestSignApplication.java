@@ -46,10 +46,10 @@ public class TestSignApplication {
 		DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
 		try{
 			DocumentBuilder db = dbf.newDocumentBuilder();
-			Document doc = db.parse("C:\\sources\\extffa\\test-sign\\test-sign\\test.xml");
+			Document doc = db.parse(".\\test.xml");
 			// Define the signing key/certificate
 			KeyingDataProvider kp = FileSystemKeyStoreKeyingDataProvider
-					.builder("jks", "C:\\sources\\extffa\\test-sign\\test-sign\\mykeystore.jks",SigningCertificateSelector.single())
+					.builder("jks", ".\\mykeystore.jks",SigningCertificateSelector.single())
 					.entryPassword((alias, certificate) -> "Cambiar123".toCharArray()).storePassword(() -> "Cambiar123".toCharArray())
 					.build();
 			// Define the signed object
