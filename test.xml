@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PEL>
+    <RESULT>
+        <CODE>0</CODE>
+        <DESCRIPTION>OK</DESCRIPTION>
+        <MESSAGE></MESSAGE>
+    </RESULT>
+    <DATA>
+        <CUENTA>
+            <ACCOUNT_NUMBER>4208860426</ACCOUNT_NUMBER>
+            <PERIODO>10-2020</PERIODO>
+            <SALDO_INICIAL>0</SALDO_INICIAL>
+            <FACTURA>0</FACTURA>
+            <PAGOS>0</PAGOS>
+            <SALDO_FINAL>0</SALDO_FINAL>
+            <ID_SEQF/>
+            <FRANCHISE>199</FRANCHISE>
+            <NOM_EMP>S.P.M. S.A.</NOM_EMP>
+            <SEPSA>256</SEPSA>
+            <PAGO_MINIMO>0</PAGO_MINIMO>
+            <PAGO_TOTAL>0</PAGO_TOTAL>
+            <FECHA_PRIMER_VTO/>
+            <FECHA_SEGUNDO_VTO/>
+        </CUENTA>
+        <CUENTA>
+            <ACCOUNT_NUMBER>4208905612</ACCOUNT_NUMBER>
+            <PERIODO>10-2020</PERIODO>
+            <SALDO_INICIAL>0</SALDO_INICIAL>
+            <FACTURA>183951</FACTURA>
+            <PAGOS>-183951</PAGOS>
+            <SALDO_FINAL>0</SALDO_FINAL>
+            <ID_SEQF>076-013-03565524</ID_SEQF>
+            <FRANCHISE>99</FRANCHISE>
+            <NOM_EMP>Telecel S.A.</NOM_EMP>
+            <SEPSA>256</SEPSA>
+            <PAGO_MINIMO>0</PAGO_MINIMO>
+            <PAGO_TOTAL>0</PAGO_TOTAL>
+            <FECHA_PRIMER_VTO/>
+            <FECHA_SEGUNDO_VTO/>
+        </CUENTA>
+        <CUENTA>
+            <ACCOUNT_NUMBER>4206257466</ACCOUNT_NUMBER>
+            <PERIODO>10-2020</PERIODO>
+            <SALDO_INICIAL>0</SALDO_INICIAL>
+            <FACTURA>0</FACTURA>
+            <PAGOS>0</PAGOS>
+            <SALDO_FINAL>0</SALDO_FINAL>
+            <ID_SEQF/>
+            <FRANCHISE>99</FRANCHISE>
+            <NOM_EMP>Telecel S.A.</NOM_EMP>
+            <SEPSA>256</SEPSA>
+            <PAGO_MINIMO>0</PAGO_MINIMO>
+            <PAGO_TOTAL>0</PAGO_TOTAL>
+            <FECHA_PRIMER_VTO/>
+            <FECHA_SEGUNDO_VTO/>
+        </CUENTA>
+    </DATA>
+</PEL>
